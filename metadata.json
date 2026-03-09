@@ -1,0 +1,7 @@
+{
+  "name": "IPM Term 3 Master Plan",
+  "description": "Comprehensive academic planner for IIM Indore IPM Batch 2025-30, Section A, D-301. Includes schedule, attendance tracking, and progress monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
